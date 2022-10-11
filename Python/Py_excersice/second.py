@@ -1,5 +1,5 @@
-numbers = [1,2,3]
-strings = ['hello','world']
+numbers = [1, 2, 3]
+strings = ["hello", "world"]
 names = ["John", "Eric", "Jessica"]
 
 # write your code here

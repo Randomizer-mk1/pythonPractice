@@ -1,4 +1,11 @@
 # define the Vehicle class
+"""_summary_
+
+    Returns:
+        _type_: _description_
+"""
+
+# docstring
 class Vehicle:
     name = ""
     kind = "car"
